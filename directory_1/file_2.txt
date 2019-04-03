@@ -6,3 +6,4 @@ You’re never going to feel like you’re ready to program full time. Imposter 
 It’s common to give up right before change is about to happen. Learning to code (especially to the point where you can switch careers) is a lot of work. It takes time and a lot of discipline, but it is possible. Too many people make the mistake of doing almost enough work to to get where they want.
 
 An algorithm is like finding a name in a phonebook. Algorithms are a step-by-step approach where there is exactly one correct next step. An easier way to think about this is the strategy that you would take to find one specific name in a phonebook.
+
