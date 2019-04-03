@@ -11,4 +11,4 @@ There’s a right way to ask for help. Everybody needs to ask for help at some p
 - Explain why you think it should be working differently.
 - When you go through this process, you’ll often come across a solution without ever asking for help. It makes you think about problems in a holistic way.
 
-Hello
+Bye
