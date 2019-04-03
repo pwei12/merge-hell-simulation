@@ -5,3 +5,5 @@ Always celebrate the small wins. Building stuff with code is really cool. I neve
 Avoiding merge conflicts makes you happier. Merge conflicts are annoying. So when I realized that I could sneak a feature in before a teammate so that he/she had to deal with these instead of me, I was super excited.
 
 It’s ok to admit what you don’t know. When you land your first programming job, you might be inclined to “fake it till you make it.” Don’t. Nobody expects you to know everything right away. If you dont know, PAKATA will make sure you know!
+
+BECAUSE PAKATA GOT HIS INFO FORM NIPUN
